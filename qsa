@@ -1,0 +1,2 @@
+print("Hello, world")
+print("The sum of 2 and 8 is",2+8)
