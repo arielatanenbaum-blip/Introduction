@@ -1,0 +1,3 @@
+print("Keywords in PYthon are....")
+import keyword
+print(keyword.kwlist)
